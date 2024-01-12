@@ -1,0 +1,50 @@
+.info-sub{
+    font-size: small;
+    border: 1px dashed #146C94;
+    width:fit-content;
+    padding:5px;
+    text-align: left;
+}
+.pattern-set{
+    font-weight: lighter;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.input-set{
+    padding: 5px;
+    margin: 2px;
+    text-align: left;
+}
+label{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+}
+input[type="file"]{
+    border:1px dashed #146C94;
+    background-color: #DBDFEA;
+    border-radius: 5px;
+    padding: 4px;
+}
+span{
+    display: inline-block;
+}
+.submit-bttn{
+    background-color: #394867;
+    width: 62.5%;
+    height: 40px;
+    padding: 2px;
+}
+#submit{
+    width: 150px;
+    height: 30px;
+    margin-top: 5px;
+    float: center;
+}
+#reference-number-i{
+    width: 230px!important;
+    font-size: xx-small;
+    text-align: center;
+    color: #146C94;
+    font-weight: lighter;
+    border: 1px dashed #146C94;
+    border-radius: 10px;
+}
